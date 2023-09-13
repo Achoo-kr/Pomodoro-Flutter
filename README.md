@@ -10,4 +10,4 @@ A simple project for getting used to Flutter.
 
 ## Screen
 
-<img src= "https://github.com/Achoo-kr/Pomodoro-Flutter/assets/64416520/f08ab0be-6fee-48ef-ac98-c56c5d426db2" width = "300">
+<img src= "https://github.com/Achoo-kr/Pomodoro-Flutter/assets/64416520/5c58e40c-488e-48aa-92cd-68433e7fb7c8" width = "300">
